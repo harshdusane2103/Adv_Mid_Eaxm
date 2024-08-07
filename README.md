@@ -1,16 +1,14 @@
-# adv_mid_eaxm
+<h1>Ecommrec App</h1>
+<P>
+<h1>
+  Description:
+</h1>
+  IN Ecommrece App this App build using API . In follow MVP sturcture.
+  <img src=""width=21%,heigth=35%>
+  <video src="https://github.com/user-attachments/assets/35df90b9-4719-4b95-9d33-531a078ba5b0
+">
+</P>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
